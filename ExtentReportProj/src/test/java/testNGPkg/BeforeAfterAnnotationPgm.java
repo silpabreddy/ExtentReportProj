@@ -8,7 +8,9 @@ public class BeforeAfterAnnotationPgm {
 	@BeforeMethod
 	public void beforeMethod() {
 		
+
 		System.out.println("I am in Before Method");
+
 		
 		}
 	
@@ -16,6 +18,6 @@ public class BeforeAfterAnnotationPgm {
 	@AfterMethod
 	public void afterMethod() {
 		
-		System.out.println("I am in After method");
+		System.out.println("I am in After method updated in Git Repository123");
 	}
 }
