@@ -18,6 +18,6 @@ public class BeforeAfterAnnotationPgm {
 	@AfterMethod
 	public void afterMethod() {
 		
-		System.out.println("I am in After method updated in Git Repository123");
+		System.out.println("I am in After method updated in Git");
 	}
 }
