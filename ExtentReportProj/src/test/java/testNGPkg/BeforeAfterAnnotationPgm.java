@@ -9,7 +9,7 @@ public class BeforeAfterAnnotationPgm {
 	public void beforeMethod() {
 		
 
-		System.out.println("I am in Before Method updated recently in GIT");
+		System.out.println("I am in Before Method updated recently in GIT and again updated in Program");
 
 		
 		}
